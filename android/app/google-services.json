@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "772058458212",
+    "project_id": "mini-ecommerce-app-8c338",
+    "storage_bucket": "mini-ecommerce-app-8c338.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772058458212:android:f24d8a51d7a47ffa37d771",
+        "android_client_info": {
+          "package_name": "com.example.mini_ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU0EVtBv6-J5q3c514RD_l7S53msts-Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
